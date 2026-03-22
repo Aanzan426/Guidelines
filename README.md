@@ -1,4 +1,3 @@
-# Guidelines
 # 📌 Project Visibility & Development Workflow
 
 This document outlines how projects are managed, developed, and shared within this repository/account. It serves as a guide for both contributors and viewers to understand the lifecycle of each project.
